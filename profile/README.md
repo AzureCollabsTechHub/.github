@@ -1,4 +1,4 @@
-# Azure Collaborations Technical Hub
+# Azure Collaborations - Technical Hub
 
 Last updated: 2025-01-16
 
